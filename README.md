@@ -1,4 +1,4 @@
-- Saudações! Sou Daniel Wick
+- Saudações!! Sou Daniel Wick
 - Atualmente trabalho como professor de Física e Robótica
 - No momento, sou estudante dos cursos de Engenharia de Computação e Segurança da Informação. Venho aprimorando, também, meus conhecimentos em HTML, CSS, JavaScript, Frameworks,     Linux, Java, C++, C# e Python.
 <div>
