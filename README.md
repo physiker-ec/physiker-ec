@@ -16,3 +16,7 @@
   <img align="center" alt="physiker-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="physiker-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
 </div>
+
+<div>
+  <a href="https://www.linkedin.com/in/daniel-wick-a14565155" targt="_blank"><img src="ttps://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
